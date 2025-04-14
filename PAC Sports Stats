@@ -1,9 +1,9 @@
-# PAC-Comp
-# A repository that houses my comp experiment 
+PAC-Comp
+A repository that houses my comp experiment 
 
-# Description of Project
+Description of Project
 
-## For my project I am creating a scraping tool that will collect its data from the PAC website. Initially I am starting with baseball only with expansion to the other sports to be added later. The reason I am doing this experiment is to address ... The final outcome I expect to have a scraping tool that will collect stats from the PAC website automatically, making data access and findability of the stats easier because it will all be in one dataset.
+For my project I am creating a scraping tool that will collect its data from the PAC website. Initially I am starting with baseball only with expansion to the other sports to be added later. The reason I am doing this experiment is to address ... The final outcome I expect to have a scraping tool that will collect stats from the PAC website automatically, making data access and findability of the stats easier because it will all be in one dataset.
 
 
 
